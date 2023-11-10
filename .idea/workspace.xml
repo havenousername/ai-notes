@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ec574a3-5669-469b-bd60-86c9fd73b670" name="Changes" comment="" />
+    <list default="true" id="0ec574a3-5669-469b-bd60-86c9fd73b670" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components/DrawerRoute.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/GlobalEventLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NoteEditor.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NoteTitle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contexts/global-click.context.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useClickOutside.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useCurrentNote.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useGlobalClick.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useNotes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/modal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notes/[note].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/[note].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Themed.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Themed.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contexts/notes.context.ts" beforeDir="false" afterPath="$PROJECT_DIR$/contexts/notes.context.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +34,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/node_modules/@react-navigation/core/src/types.tsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/node_modules/@react-navigation/drawer/src/types.tsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/node_modules/@react-navigation/drawer/src/views/DrawerItem.tsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/node_modules/expo-router/src/layouts/Drawer.tsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/Components/TextInput/TextInput.d.ts" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2XurCTujbOuB6oNqmKZDC4G84gI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,11 +57,27 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/andreicristea/andrei/Programming/react/ai-notes/app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
     "settings.editor.selected.configurable": "configurable.group.build",
+    "ts.external.directory.path": "/Users/andreicristea/andrei/Programming/react/ai-notes/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/notes" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/(tabs)/notes" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699489677929</updated>
       <workItem from="1699489679108" duration="247000" />
+      <workItem from="1699497542637" duration="35111000" />
     </task>
     <servers />
   </component>
